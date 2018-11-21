@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "taxi24a",
+    "password": "taxi24a",
+    "database": "taxi24a",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "test": {
+    "username": "taxi24a",
+    "password": "taxi24a",
+    "database": "taxi24a_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "username": "taxi24a",
+    "password": "taxi24a",
+    "database": "taxi24a_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  }
+}
